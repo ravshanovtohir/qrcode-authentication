@@ -1,0 +1,20 @@
+/api/v1/auth/register__POST__1681970584505__SyntaxError__Unexpected token } in JSON at position 99
+/api/v1/auth/register__POST__1681970639151__AuthorizationError__User Already Exist. Please Login
+/api/v1/auth/register__POST__1681970648557__ValidationError__All input is required
+/api/v1/auth/register__POST__1681971042556__AuthorizationError__User Already Exist. Please Login
+/api/v1/auth/register__POST__1681971279166__AuthorizationError__User Already Exist. Please Login
+/api/v1/auth/register__POST__1681971313154__AuthorizationError__User Already Exist. Please Login
+/api/v1/auth/register__POST__1681971678160__AuthorizationError__User Already Exist. Please Login
+/api/v1/auth/register__POST__1681971809850__AuthorizationError__User Already Exist. Please Login
+/api/v1/auth/register__POST__1681971827111__AuthorizationError__User Already Exist. Please Login
+/api/v1/auth/register__POST__1681972504777__ReferenceError__ClientError is not defined
+/api/v1/auth/register__POST__1681972593811__ReferenceError__err is not defined
+/api/v1/auth/register__POST__1681972681268__ReferenceError__ClientError is not defined
+/api/v1/auth/register__POST__1681972759658__AuthorizationError__User Already Exist. Please Login
+/api/v1/auth/register__POST__1681972778648__SyntaxError__Unexpected token / in JSON at position 7
+/api/v1/auth/register__POST__1681972786141__AuthorizationError__User Already Exist. Please Login
+/api/v1/auth/register__POST__1681972804398__SyntaxError__Unexpected token / in JSON at position 101
+/api/v1/auth/register__POST__1681972811018__ValidationError__All input is required
+/api/v1/auth/register__POST__1681972842774__ValidationError__All input is required
+/api/v1/auth/register__POST__1681972858095__AuthorizationError__User Already Exist. Please Login
+/api/v1/auth/register__POST__1681973554188__AuthorizationError__User Already Exist. Please Login
