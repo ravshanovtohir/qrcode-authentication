@@ -24,9 +24,6 @@ cp .env.example .env
 
 The environment variables can be found and modified in the `.env` file.
 ```
-
-
 *   PORT
-
 *   SECRET_KEY
 ```
