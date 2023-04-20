@@ -13,18 +13,14 @@ app.get('/', (req, res) => res.send("Hello"))
 
 // routes
 import authRouter from './routes/auth.js'
-// import postRouter from './routes/post.js'
-// import userRouter from './routes/user.js'
+import qrRouter from './routes/QR.js'
 
-// import User from "./sequalize.js"
-// console.log(User);
 
 !async function () {
     try {
         database()
         app.use(authRouter)
-        // app.use(postRouter)
-        // app.use(userRouter)
+        app.use(qrRouter)
     } catch (error) {
         console.log(error)
     }
